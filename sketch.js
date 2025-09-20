@@ -125,7 +125,7 @@ function preload() {
   guideCharImg = loadImage('guide char.png'); // Use guide char.png as guide character
   celebrateCharImg = loadImage('celebrate char.png'); // Load celebration character
   smartphoneImg = loadImage('smartphone.png'); // Load your provided smartphone image
-  cameraImg = loadImage('camera.png');
+  cameraImg = loadImage('Camera.png');
   for (let i = 1; i <= 5; i++) {
     elementImgs.push(loadImage(`Element${i}.png`));
   }
